@@ -1,3 +1,9 @@
+"""
+cron: 5 8 * * * *
+new Env('PROXY_HOST');
+new Env('V2EX_COOKIES');
+"""
+
 import os
 import re
 import time
