@@ -1,5 +1,5 @@
 """
-cron: 5 8 * * * *
+cron: 5 9 * * * *
 new Env('PROXY_HOST');
 new Env('V2EX_COOKIES');
 """
