@@ -1,5 +1,6 @@
 """
 cron: 5 9 * * * *
+new Env('V2EX签到');
 """
 
 import os
